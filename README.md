@@ -7,11 +7,11 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/Galihsaptahadi/swiss-prc20.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd swiss-prc20
 ```
 
 ### 2. Install Dependency
